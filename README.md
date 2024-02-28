@@ -6,9 +6,7 @@
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshika-sharma-bb53a1210/)
 
--   🔭 I’m currently solving questions on [Interview Bit](https://www.interviewbit.com/profile/anshika-sharma_441)
-
--   🌱 I’m currently Working on my Major project and preparing for placement drive.
+-   🔭 I’m currently working on a full stack project in Walmart.
 
 -   👨‍💻 All of my projects are available at [https://github.com/Anshi25]
 
